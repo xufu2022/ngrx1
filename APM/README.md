@@ -9,3 +9,4 @@ Set up Sample store
 - Subscribe to state change notifications
 
 npm install @ngrx/store --save
+npm install @ngrx/store-devtools
